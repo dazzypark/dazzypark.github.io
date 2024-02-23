@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.175a4061.css",
+    "main.js": "/static/js/main.a68195a4.js",
+    "static/js/206.b23adaaf.chunk.js": "/static/js/206.b23adaaf.chunk.js",
+    "static/media/preview.gif": "/static/media/preview.9188dd9c48b0ede6163d.gif",
+    "static/media/BMDOHYEON_ttf.ttf": "/static/media/BMDOHYEON_ttf.d20f6c68004f7588ee16.ttf",
+    "static/media/alh.png": "/static/media/alh.ef2cd14b9dd15b0f29eb.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.175a4061.css",
+    "static/js/main.a68195a4.js"
+  ]
+}
